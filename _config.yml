@@ -23,7 +23,7 @@ keywords: "triathlon, Tennessee, Knoxville, triathlete, UTK, bikes, SECTC"
 
 # Site settings
 url: http://trivols.org
-baseurl: "/"
+baseurl: ""
 # baseurl: ""
 
 # Author settings
