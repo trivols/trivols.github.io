@@ -39,3 +39,6 @@ repo: http://github.com/trivols/trivols.github.io
 
 # comments
 disqus_shortname: "alexpawlowski"
+
+gems:
+  - github-pages
