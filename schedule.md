@@ -25,17 +25,17 @@ Note that with the Hot Dam race falling on Battle at Bristol weekend, we will be
 
 <script>
 formatGoogleCalendar.init({
-        calendarUrl: 'https://www.googleapis.com/calendar/v3/calendars/7caamt6q92v1vbrna0ergpoqks%40group.calendar.google.com/events?key=AIzaSyDM0OiBBzeDLq_r9Kni1j8YeQAMfKI69mg',
-        past: false,
+        calendarUrl: 'https://www.googleapis.com/calendar/v3/calendars/7caamt6q92v1vbrna0ergpoqks%40group.calendar.google.com/events?timeMin=2015-06-03T10%3A00%3A00-04%3A00&key=AIzaSyC39nF_t-bAogVVXR9dLGLiSEDywUt7Fgc',
+        past: true,
         upcoming: true,
         sameDayTimes: true,
-        pastTopN: -1,
-        upcomingTopN: 3,
+        pastTopN: 1,
+        upcomingTopN: -1,
         itemsTagName: 'li',
         upcomingSelector: '#events-upcoming',
         pastSelector: '#events-past',
         upcomingHeading: '<h2>Upcoming events</h2>',
         pastHeading: '<h2>Past events</h2>',
-        format: ['*date*', ': ', '*summary*', ' — ', '*description*', ' in ', '*location*']
+        format: ['*date*', ': ', '*summary*', ' <br/> ', '*description*', '<ol>', '*location*', '</ol>']
 });
 </script>

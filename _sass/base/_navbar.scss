@@ -120,6 +120,12 @@
   background-color: tint($black-color, 5%);
   @include transition(visibility 0s $animation-duration);
 
+  ul,
+  ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
   .navigation-wrapper {
     height: 100%;
     overflow-y: auto;
