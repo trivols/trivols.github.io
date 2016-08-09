@@ -19,7 +19,6 @@ title: TriVols
 description: "Club of Triathletes at the University of Tennessee competing in the Southeast Collegiate Triathlon Conference"
 keywords: "triathlon, Tennessee, Knoxville, triathlete, UTK, bikes, SECTC"
 
-error_mode: warn
 # Site settings
 # url: http://trivols.org
 # baseurl: ""
@@ -31,12 +30,11 @@ author:
   job       : President
   bio       : "Triathlete, PhD student at UT, love to compete and enjoy every moment"
   thumb     : /images/author.jpg
-  email     : apawlows@vols.utk.edu
+  email     : alex@trivols.org
   url       : http://trivols.org
   twitter   : http://twitter.com/tntrivols
-  linkedin  : http://linkedin.com/in/alexpawlowski
 
-# google_analytics: UA-52446115-1
+google_analytics: UA-70808641-2
 repo: http://github.com/trivols/trivols.github.io
 
 # comments
