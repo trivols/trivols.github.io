@@ -21,6 +21,7 @@ title: TriVols
 description: "Club of Triathletes at the University of Tennessee competing in the Southeast Collegiate Triathlon Conference"
 keywords: "triathlon, Tennessee, Knoxville, triathlete, UTK, bikes, SECTC"
 
+error_mode: warn
 # Site settings
 # url: http://trivols.org
 # baseurl: ""
