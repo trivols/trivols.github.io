@@ -7,6 +7,7 @@ custom_js:
  - format-google-calendar.min
  - jquery-2.1.1
 ---
+## Race Schedule
 
 | Date |      Race     |        Distance       |     Location    |     Conference Race     |
 |:----:|:-------------:|:---------------------:|:---------------:|:-----------------------:|
@@ -17,6 +18,14 @@ custom_js:
 | 10/8 |  [Rock n' Roll](http://gamultisports.com/rocknrollmanraceseries/olympic/) |        Olympic        |    Macon, GA    | Conference Championship |
 
 Note that with the Hot Dam race falling on Battle at Bristol weekend, we will be unable to send a full team to the race, but if you are interested in going, please let us know!
+
+## Practice Schedule
+Schedule may be subject to change, look to the weekly email for the latest.
+
+|    |             Mon            |           Tues           |      Wed      |           Thurs          |     Fri     |
+|:--:|:--------------------------:|:------------------------:|:-------------:|:------------------------:|:-----------:|
+| AM |         6a Swim SAC        |                          | 6a Spin TRECS |                          | 6a Swim SAC |
+| PM | Run at Bearden Beer Market | Run / Bike / Activity 5p |               | Run / Bike / Activity 5p |             |
 
 <ul id="events-upcoming">
 </ul>
