@@ -1,11 +1,12 @@
 ---
 layout: page
 title: About
-subtitle: It's Free!
+subtitle: Club team competing in the Southeast Collegiate Triathlon Conference
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Since 2006, the TriVols have been a training ground for triathletes to compete at the Collegiate level in the [Southeast](http://sectc.org) and against the top teams in the nation at Collegiate Nationals. More than just competition, the TriVols offer a fun and inclusive atmosphere for students at the University of Tennessee to train, as well as be involved in the triathlon community in East Tennessee.
 
-You can find the source code for the Jekyll new theme at: [jekyll-new](https://github.com/jglovier/jekyll-new)
-You can find the source code for Jekyll at [jekyll](https://github.com/jekyll/jekyll)
+### Interested in more?
+
+Contact the team president - [Alex Pawlowski](mailto:apawlows@vols.utk.edu) for how you can get involved with the team!
