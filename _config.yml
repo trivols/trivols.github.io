@@ -20,8 +20,8 @@ description: "Club of Triathletes at the University of Tennessee competing in th
 keywords: "triathlon, Tennessee, Knoxville, triathlete, UTK, bikes, SECTC"
 
 # Site settings
-# url: http://trivols.org
-# baseurl: ""
+url: http://trivols.org
+baseurl: ""
 # baseurl: ""
 
 # Author settings
@@ -32,7 +32,8 @@ author:
   thumb     : /images/author.jpg
   email     : alex@trivols.org
   url       : http://trivols.org
-  twitter   : http://twitter.com/tntrivols
+  twitter   : https://twitter.com/tntrivols
+  instagram : https://www.instagram.com/tntrivols/
 
 google_analytics: UA-70808641-2
 repo: http://github.com/trivols/trivols.github.io
