@@ -43,3 +43,4 @@ disqus_shortname: "alexpawlowski"
 
 gems:
   - github-pages
+  - jekyll-sitemap
