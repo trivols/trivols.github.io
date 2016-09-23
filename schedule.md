@@ -8,7 +8,9 @@ custom_js:
  - jquery-2.1.1
 ---
 ## Practice Schedule
-Schedule may be subject to change, look to the weekly email for the latest.
+Schedule may be subject to change, look to the weekly email for the latest, which comes out on Sunday evenings.
+
+To remain an active member, come to 2 practices a week!
 
 |    |             Mon            |           Tues           |      Wed      |           Thurs          |     Fri     |
 |:--:|:--------------------------:|:------------------------:|:-------------:|:------------------------:|:-----------:|
