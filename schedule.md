@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schedule
-subtitle: Check out our practice schedule this fall
+subtitle: Check out our practice schedule this spring
 permalink: /schedule/
 custom_js:
  - format-google-calendar.min
@@ -14,8 +14,8 @@ To remain an active member, come to 2 practices a week!
 
 |    |             Mon            |           Tues           |      Wed      |           Thurs          |     Fri     |
 |:--:|:--------------------------:|:------------------------:|:-------------:|:------------------------:|:-----------:|
-| AM |         6a Swim SAC        |                          | 6a Spin TRECS |                          | 6a Swim SAC |
-| PM | Run at Bearden Beer Market | Run / Bike / Activity 5:30p |               | Run / Bike / Activity 5:30p |             |
+| AM |                            |          6a Swim SAC     | 6a Spin TRECS |             6a Swim SAC  |             |
+| PM | Run at Bearden Beer Market | Run / Bike / Activity 5:30p |            | Run / Bike / Activity 5:30p |          |
 
 <ul id="events-upcoming">
 </ul>
