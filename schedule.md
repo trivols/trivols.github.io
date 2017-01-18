@@ -14,13 +14,13 @@ To remain an active member, come to 2 practices a week!
 
 |    |             Mon            |           Tues           |      Wed      |           Thurs          |     Fri     |
 |:--:|:--------------------------:|:------------------------:|:-------------:|:------------------------:|:-----------:|
-| AM |                            |          6a Swim SAC     | 6a Spin TRECS |             6a Swim SAC  |             |
-| PM | Run at Bearden Beer Market | Run / Bike / Activity 5:30p |            | Run / Bike / Activity 5:30p |          |
+| AM |                            |          6a Swim SAC     | 6a Spin TRECS |             6a Swim SAC  |   Run 6a    |
+| PM | Run at Bearden Beer Market*|                          |            | Run at Laundry / Alliance * |             |
 
+\* optional
 <ul id="events-upcoming">
 </ul>
-<ul id="events-past">
-</ul>
+
 
 <script>
 formatGoogleCalendar.init({
@@ -32,9 +32,7 @@ formatGoogleCalendar.init({
         upcomingTopN: -1,
         itemsTagName: 'li',
         upcomingSelector: '#events-upcoming',
-        pastSelector: '#events-past',
         upcomingHeading: '<h2>Upcoming events</h2>',
-        pastHeading: '<h2>Past events</h2>',
         format: ['*date*', ': ', '*summary*', ' <br/> ', '*description*', '<ol>', '*location*', '</ol>']
 });
 </script>
