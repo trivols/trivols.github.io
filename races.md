@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Races
-subtitle: Check our race schedule this spring
+subtitle: Check our race schedule this fall
 permalink: /races/
 custom_js:
  - format-google-calendar.min

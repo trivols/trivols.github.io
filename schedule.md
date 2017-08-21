@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schedule
-subtitle: Check out our practice schedule this spring
+subtitle: Check out our practice schedule this fall
 permalink: /schedule/
 custom_js:
  - format-google-calendar.min
