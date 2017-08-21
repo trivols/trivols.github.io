@@ -16,14 +16,14 @@ We have two options for to join the team! A competitive and non-competitive opti
 
 ### Competitive
 
-- Dues $70 for semester, $120 for year
+- Dues \$70 for semester, \$120 for year
 - Travel with Team for Conference Races, team covers travel fees
-- Must get USAT ID
+- Must have USAT ID
 - Come to Practices
 - Race fees covered by you, race discounts for conference races (if available)
 
 ### Non-Competitive
-- Dues $40 for semester, $70 for year
+- Dues \$40 for semester, \$70 for year
 - Come out for a Non-Conference race with the team
 - Come to Practices
 - Race fees covered by you
@@ -34,17 +34,11 @@ We have two options for to join the team! A competitive and non-competitive opti
 
 ![Alex Pawlowski](/assets/images/alex-pawlowski.jpg){:height="200px" width="200px"}
 
-Hey there, I’m Alex and I’m a third year PhD Student, doing research at Oak Ridge National Lab. Having competed with the University of Virginia in triathlon, I am beginning my 7th year training for triathlons. As President this year, I look to strengthen the core triathlon team at competition while growing the team at large through a variety of partnerships with the local community. Interested in the team? Drop me a [line](mailto:{{site.author.email}})!
+Hey there, I’m Alex and I’m a fourth year PhD Student, doing research at Oak Ridge National Lab. Having competed with the University of Virginia in triathlon, I am beginning my 7th year training for triathlons. As President this year, I look to strengthen the core triathlon team at competition while growing the team at large through a variety of partnerships with the local community. Interested in the team? Drop me a [line](mailto:{{site.author.email}})!
 
-### Vice President - Jake
+### Vice President - Ashley
 
-![Jake Houser](/assets/images/jake-houser.jpg){:height="200px" width="200px"}
-
-How’s it going?  I’m Jake, a fifth year PhD student (not a kangaroo) and avid swimmer who got into triathlon four years ago when I came to UT.  I’m also a member of the local Provision Health and Performance Racing Team.  As Vice President, I’ll be acting in a support capacity to Alex while we work towards making the team bigger and better than ever.  I’m excited to see what our team can become over the next year and look forward to working with everyone on the team towards these goals.  Any questions about the team, triathlon, etc.?  Let me know at jhouse11 (at) utk (dot) edu!
-
-### Treasurer - Zach
-
-### Social - Ashley
+### Social - Erin
 
 ## Interested in more?
 

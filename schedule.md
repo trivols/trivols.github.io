@@ -12,10 +12,10 @@ Schedule may be subject to change, look to the weekly email for the latest, whic
 
 To remain an active member, come to 2 practices a week!
 
-|    |             Mon            |           Tues           |      Wed      |           Thurs          |     Fri     |
-|:--:|:--------------------------:|:------------------------:|:-------------:|:------------------------:|:-----------:|
-| AM |                            |          6a Swim SAC     | 6a Spin TRECS |             6a Swim SAC  |   Run 6a    |
-| PM | Run at Bearden Beer Market*|                          |            | Run at Laundry / Alliance * |             |
+|      |             Mon             |    Tues     |         Wed         |    Thurs    |  Fri   |
+| :--: | :-------------------------: | :---------: | :-----------------: | :---------: | :----: |
+|  AM  |                             | 6a Swim SAC |    6a Spin TRECS    | 6a Swim SAC | Run 6a |
+|  PM  | Run at Bearden Beer Market* |             | Run / Team Activity |             |        |
 
 \* optional
 <ul id="events-upcoming">
